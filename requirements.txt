@@ -1,0 +1,4 @@
+# Required libraries
+numpy
+matplotlib
+seaborn
